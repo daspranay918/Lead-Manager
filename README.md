@@ -82,3 +82,9 @@ flutter run -d ios
 
 Pranay Das
 GitHub: https://github.com/daspranay918
+
+App Apk download link
+https://drive.google.com/file/d/1Rl0LVLBOXE3RJuDevn5ElL8yfEsutNvJ/view?usp=sharing
+
+App video:-
+https://youtube.com/shorts/oqLi8lLnNso?si=BlQJBEJJhrMrsP_o
