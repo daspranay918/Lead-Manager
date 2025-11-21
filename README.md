@@ -62,16 +62,6 @@ The project is optimized for Android and iOS only.
 ## 🖼 Screenshots
 <p align="center">
 <img src="a" width="250" />
-<img src="b" width="250" />
-<img src="c" width="250" />
-<img src="d" width="250" />
-<img src="d" width="250" />
-<img src="d" width="250" />
-<img src="d" width="250" />
-<img src="d" width="250" />
-<img src="d" width="250" />
-<img src="d" width="250" />
-<img src="d" width="250" />
 </p>
 --
 📦 Packages Used
